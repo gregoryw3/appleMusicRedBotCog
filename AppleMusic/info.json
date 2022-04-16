@@ -1,0 +1,22 @@
+{
+    "$schema": "https://raw.githubusercontent.com/Cog-Creators/Red-DiscordBot/V3/develop/schema/red_cog.schema.json",
+    "name": "AppleMusic",
+    "short": "Adds Apple Music Playback",
+    "description": "Similar to youtube playback, now you can give a song or playlist link and listen to Apple Music!",
+    "end_user_data_statement": "Stores your Apple Music API access key",
+    "install_msg": "Apple Music Cog is now Installed!",
+    "author": [
+        "Gregory Wainer"
+    ],
+    "required_cogs": {},
+    "requirements": [],
+    "tags": [
+        "apple",
+        "music",
+        "applemusic"
+    ],
+    "min_bot_version": "3.3.10",
+    "hidden": false,
+    "disabled": false,
+    "type": "COG"
+}
